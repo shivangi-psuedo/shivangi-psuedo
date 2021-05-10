@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivangi-psuedo
 - 👀 I’m interested in Data Science, Machine Learning and Internet of Things
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working as a Data Science and Business Analytics Intern @ The Sparks Foundation
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me - shivangichamoli28@gmail.com
 
